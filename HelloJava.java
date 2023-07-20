@@ -3,10 +3,10 @@ class HelloWorld
 	public void printHelloWorld(){
 		System.out.println("Hello World");
 	}
-	public void printِAmal(){
+	public void printAmal(){
 		System.out.println("Hello Amal");
 	}	
-	ublic void printsalah(){
+	public void printsalah(){
 		System.out.println("Hello Salah ");
 	}
 	public void printhana(){
