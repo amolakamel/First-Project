@@ -9,4 +9,7 @@ class HelloWorld
 	ublic void printsalah(){
 		System.out.println("Hello Salah ");
 	}
+	public void printhana(){
+		System.out.println("Hello hana");
+	}
 }
