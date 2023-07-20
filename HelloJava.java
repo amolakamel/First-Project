@@ -5,5 +5,8 @@ class HelloWorld
 	}
 	public void printِAmal(){
 		System.out.println("Hello Amal");
+	}	
+	ublic void printsalah(){
+		System.out.println("Hello Salah ");
 	}
 }
