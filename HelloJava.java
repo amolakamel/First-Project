@@ -12,10 +12,20 @@ class HelloWorld
 	public void printhana(){
 		System.out.println("Hello hana");
 	}
+
 }
 
 
+<<<<<<< HEAD
 
 //salah azztli 
 
 // Amal mahmoud kamel
+=======
+//Hana
+ 
+
+
+// Amal mahmoud kamel
+
+>>>>>>> b61e80a590f839ca9940080a93b60ac27ad55a2e
